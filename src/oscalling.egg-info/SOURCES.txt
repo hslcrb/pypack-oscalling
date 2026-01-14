@@ -1,6 +1,6 @@
 LICENSE
 README.md
-setup.py
+pyproject.toml
 src/oscalling/__init__.py
 src/oscalling/core.py
 src/oscalling/env.py
