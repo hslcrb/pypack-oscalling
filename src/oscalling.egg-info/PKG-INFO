@@ -1,4 +1,4 @@
-Metadata-Version: 2.4
+Metadata-Version: 2.1
 Name: oscalling
 Version: 2.0.0
 Summary: A powerful, unified OS manipulation package with built-in memory and hardware management.
@@ -45,8 +45,6 @@ Classifier: Topic :: System :: Systems Administration
 Requires-Python: >=3.7
 Description-Content-Type: text/markdown
 License-File: LICENSE
-Requires-Dist: psutil>=5.0.0
-Dynamic: license-file
 
 # oscalling
 
